@@ -3,7 +3,6 @@ layout: post
 title: "Hatch Restore 2 Review – All-in-One Sleep Assistant"
 subtitle: "A complete review of Hatch Restore 2, the smart sleep machine with sunrise alarm that’s redefining bedtime routines."
 tags: [Product reviews, Sleep Devices]
-cover-img: /assets/img/cover.png
 author: Ha Hoang
 ---
 
