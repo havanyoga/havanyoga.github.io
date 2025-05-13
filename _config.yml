@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: My website
+title: HAVAN.YOGA – Your Calm Space for Better Sleep
 
 # Your name to show in the footer
-author: Some Person
+author: Ha Hoang
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sleep Tips: "aboutme"
+  Natural Remedies:
+  Product Reviews: "https://beautifuljekyll.com"
+  Learn: "https://www.markdowntutorial.com/"
+  Subscribe: "https://deanattali.com"
 
 ################
 # --- Logo --- #
