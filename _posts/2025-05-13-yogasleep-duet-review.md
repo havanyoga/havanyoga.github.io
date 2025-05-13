@@ -22,11 +22,15 @@ If you're new to the blog, check out our [stress-free sleep essentials homepage]
 
 Designed by the makers of the original white noise machine, the Duet features 30+ soothing sounds, a dimmable nightlight, and a sleek, travel-friendly design.
 
-![Yogasleep Duet](https://m.media-amazon.com/images/I/71n7BmcNzPL._AC_SL1500_.jpg)
+<div style="text-align:center;">
+  <img src="https://m.media-amazon.com/images/I/71n7BmcNzPL._AC_SL1500_.jpg" alt="Yogasleep Duet" style="width:400px; height:auto;"/>
+</div>
 
-<a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
-  <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
-</a>
+<div style="text-align:center;">
+  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
+    <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
+  </a>
+</div>
 
 ---
 
@@ -109,8 +113,10 @@ A: Yes. It’s lightweight, fits in one hand, and runs on USB power.
 
 If you're looking for a **white noise machine for baby** that also works for the rest of the family, the **Yogasleep Duet** hits the mark with its combination of soothing sounds, gentle nightlight, and baby-safe design.
 
-<a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
-  <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
-</a>
+<div style="text-align:center;">
+  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
+    <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
+  </a>
+</div>
 
 > *This post contains affiliate links. If you purchase via our link, we may earn a small commission — at no extra cost to you. It helps support the blog and keeps it ad-free. Thanks for your support!*
