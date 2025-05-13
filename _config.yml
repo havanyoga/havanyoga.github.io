@@ -20,11 +20,11 @@ author: Ha Hoang
 ###############################################
 
 navbar-links:
-  Sleep Tips: "aboutme"
-  Natural Remedies:
-  Product Reviews: "https://beautifuljekyll.com"
-  Learn: "https://www.markdowntutorial.com/"
-  Subscribe: "https://deanattali.com"
+  Sleep Tips: "#"
+  Natural Remedies: "#"
+  Product Reviews: "#"
+  Learn: "#"
+  Contact: "#"
 
 ################
 # --- Logo --- #
