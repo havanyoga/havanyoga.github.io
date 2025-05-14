@@ -92,13 +92,13 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 
 ## 📊 Quick Comparison Table
 
-| Product | Best For | Sounds | Special Features | Price |
-|---------|----------|--------|------------------|--------|
-| Hatch Restore 2 | Full sleep assistant | Soundscapes | Sunrise light, app | $$$ |
-| SNOOZ | Fan noise lovers | 1 real fan tone | Adjustable pitch | $$ |
-| Yogasleep Duet | Babies & families | 30 sounds | Nightlight + dual output | $$ |
-| LectroFan Classic | Offices, focus | 20 tones | No lights, precise volume | $ |
-| Dreamegg D3 Pro | Portable/baby | 29 sounds | Rechargeable + light | $ |
+| Product | Best For | Sounds | Special Features |
+|---------|----------|--------|------------------|
+| Hatch Restore 2 | Full sleep assistant | Soundscapes | Sunrise light, app |
+| SNOOZ | Fan noise lovers | 1 real fan tone | Adjustable pitch |
+| Yogasleep Duet | Babies & families | 30 sounds | Nightlight + dual output |
+| LectroFan Classic | Offices, focus | 20 tones | No lights, precise volume |
+| Dreamegg D3 Pro | Portable/baby | 29 sounds | Rechargeable + light |
 
 ---
 
