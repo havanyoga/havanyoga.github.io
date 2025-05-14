@@ -28,7 +28,7 @@ The Manta Sleep Mask is designed to deliver 100% blackout and pressure-free comf
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mvSYSj?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4mvSYSj" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -117,31 +117,20 @@ A: No. The adjustable strap keeps it secure without being too tight.
 If light is ruining your sleep, and especially if you sleep on your side, the **Manta Sleep Mask** is a must-have. It combines blackout, comfort, and customization in one thoughtful design.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mvSYSj?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4mvSYSj" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>
 
 > *This post contains affiliate links. If you purchase via our link, we may earn a small commission — at no extra cost to you. It helps support the blog and keeps it ad-free. Thanks for your support!*
-
 ---
 
-## 🧾 Related Products You May Like
+## 🧾 Related Sleep Masks You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/dodow-sleep-aid-review/">Dodow Sleep Aid – Breathing Light to Calm the Mind</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/hatch-restore-2-review/">Hatch Restore 2 – Wake-Up Light + Sleep Sound Assistant</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/yogasleep-duet-review/">Yogasleep Duet – White Noise + Nightlight Combo for Families</a>
-  </li>
+  <li>🔗 <a href="https://havan.yoga/2025/05/13/manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025/05/14/alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025/05/14/tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025/05/14/nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025/05/14/bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
 </ul>
