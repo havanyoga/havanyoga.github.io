@@ -82,7 +82,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Specialty:** Rechargeable, dimmable light, hangs on cribs  
 - **Price:** $  
 <div style="text-align:center;">
-  <a href="https://amzn.to/3Vq66nF?tag=havan07-20" target="_blank" rel="nofollow noopener">
+  <a href="https://amzn.to/4iZYAkw" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
