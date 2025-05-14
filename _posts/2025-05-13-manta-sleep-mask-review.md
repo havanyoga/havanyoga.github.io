@@ -28,7 +28,7 @@ The Manta Sleep Mask is designed to deliver 100% blackout and pressure-free comf
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mvSYSj" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4mvSYSj?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -117,7 +117,7 @@ A: No. The adjustable strap keeps it secure without being too tight.
 If light is ruining your sleep, and especially if you sleep on your side, the **Manta Sleep Mask** is a must-have. It combines blackout, comfort, and customization in one thoughtful design.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mvSYSj" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4mvSYSj?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>
