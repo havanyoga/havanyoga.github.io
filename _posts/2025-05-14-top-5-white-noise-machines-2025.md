@@ -20,7 +20,6 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Best for:** Sleep routines and smart features  
 - **Sounds:** Sleep soundscapes + sunrise light  
 - **Specialty:** Combines alarm clock, nightlight, and sound machine  
-- **Price:** $$$  
 <div style="text-align:center;">
   <a href="https://amzn.to/3YDKuhx?tag=havan07-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
@@ -35,7 +34,6 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Best for:** Authentic fan sound lovers  
 - **Sounds:** Real fan noise via internal motor  
 - **Specialty:** Adjustable tone, no moving air  
-- **Price:** $$  
 <div style="text-align:center;">
   <a href="https://amzn.to/4mdvHEn?tag=havan07-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
@@ -50,7 +48,6 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Best for:** Families and nurseries  
 - **Sounds:** 30 sounds including lullabies  
 - **Specialty:** Amber nightlight + dual speakers  
-- **Price:** $$  
 <div style="text-align:center;">
   <a href="https://amzn.to/43jjQvV?tag=havan07-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
@@ -65,7 +62,6 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Best for:** Office use, travel, and white/pink/brown noise fans  
 - **Sounds:** 10 fan + 10 noise tones (non-looping)  
 - **Specialty:** Precise volume, no light or distractions  
-- **Price:** $  
 <div style="text-align:center;">
   <a href="https://amzn.to/3GSqrWC?tag=havan07-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
@@ -80,7 +76,6 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Best for:** Travel and baby on the go  
 - **Sounds:** 29 including lullabies, rain, ocean  
 - **Specialty:** Rechargeable, dimmable light, hangs on cribs  
-- **Price:** $  
 <div style="text-align:center;">
   <a href="https://amzn.to/4iZYAkw" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
