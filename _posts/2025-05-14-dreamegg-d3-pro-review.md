@@ -3,7 +3,7 @@ layout: post
 title: "Dreamegg D3 Pro Review – Portable White Noise Machine with Night Light"
 subtitle: "Soothe your baby, block distractions, and sleep deeper with this versatile sound and light machine."
 tags: [Product reviews, White Noise Machines]
-cover-img: https://m.media-amazon.com/images/I/61B6K-ux3qL._AC_SL1500_.jpg
+cover-img: https://m.media-amazon.com/images/I/81FVbvHVj3L._AC_SL1500_.jpg
 author: Ha Hoang
 ---
 
