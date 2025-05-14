@@ -41,7 +41,7 @@ We only selected products that meet the following:
   </a>
 </div>
 
-> Read full review: [Dodow Sleep Aid Review](/2025-05-13-dodow-sleep-aid-review.md)
+> Read full review: [Dodow Sleep Aid Review](/2025-05-13-dodow-sleep-aid-review)
 
 ---
 
@@ -57,7 +57,7 @@ We only selected products that meet the following:
   </a>
 </div>
 
-> Read full review: [SNOOZ Review](/2025-05-13-snooz-review.md)
+> Read full review: [SNOOZ Review](/2025-05-13-snooz-review)
 
 ---
 
@@ -73,7 +73,7 @@ We only selected products that meet the following:
   </a>
 </div>
 
-> Read full review: [Manta Sleep Mask Review](/2025-05-13-manta-sleep-mask-review.md)
+> Read full review: [Manta Sleep Mask Review](/2025-05-13-manta-sleep-mask-review)
 
 ---
 
@@ -89,7 +89,7 @@ We only selected products that meet the following:
   </a>
 </div>
 
-> Read full review: [Hatch Restore 2 Review](/2025-05-13-hatch-restore-2-review.md)
+> Read full review: [Hatch Restore 2 Review](/2025-05-13-hatch-restore-2-review)
 
 ---
 
@@ -105,7 +105,7 @@ We only selected products that meet the following:
   </a>
 </div>
 
-> Read full review: [Yogasleep Duet Review](/2025-05-13-yogasleep-duet-review.md)
+> Read full review: [Yogasleep Duet Review](/2025-05-13-yogasleep-duet-review)
 
 ---
 
