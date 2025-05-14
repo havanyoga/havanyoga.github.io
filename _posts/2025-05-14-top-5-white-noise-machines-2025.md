@@ -3,7 +3,7 @@ layout: post
 title: "Top 5 White Noise Machines 2025 – Better Sleep, Work, and Baby Soothing"
 subtitle: "Discover the best white noise machines for adults, babies, travel, and work in 2025."
 tags: [Top lists, White Noise Machines, Sleep Aids, Best of 2025]
-cover-img: https://m.media-amazon.com/images/I/61B6K-ux3qL._AC_SL1500_.jpg
+cover-img: https://m.media-amazon.com/images/S/aplus-media/sc/462e3bb2-3dd0-4a51-b9ad-c12f2c9c2bcd.__CR0,0,970,600_PT0_SX970_V1___.jpg
 author: Ha Hoang
 ---
 
