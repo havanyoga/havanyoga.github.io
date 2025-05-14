@@ -23,7 +23,7 @@ In this review, we’ll explore how this portable machine helps you sleep better
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/61B6K-ux3qL._AC_SL1500_.jpg" alt="Dreamegg D3 Pro" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/3Vq66nF?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/42XGXx7" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ If you need a **white noise machine that’s portable, multi-functional, and bab
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/3Vq66nF?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/42XGXx7" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
