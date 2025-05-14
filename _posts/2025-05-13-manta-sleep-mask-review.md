@@ -122,7 +122,7 @@ If light is ruining your sleep, and especially if you sleep on your side, the **
   </a>
 </div>
 
-> *This post contains affiliate links. If you purchase via our link, we may earn a small commission — at no extra cost to you. It helps support the blog and keeps it ad-free. Thanks for your support!*
+> This post contains affiliate links. If you purchase via our link, we may earn a small commission — at no extra cost to you. It helps support the blog and keeps it ad-free. Thanks for your support!
 ---
 
 ## 🧾 Related Sleep Masks You May Like
