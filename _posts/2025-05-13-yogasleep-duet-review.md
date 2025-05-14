@@ -27,7 +27,7 @@ Designed by the makers of the original white noise machine, the Duet features 30
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -114,31 +114,20 @@ A: Yes. It’s lightweight, fits in one hand, and runs on USB power.
 If you're looking for a **white noise machine for baby** that also works for the rest of the family, the **Yogasleep Duet** hits the mark with its combination of soothing sounds, gentle nightlight, and baby-safe design.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>
 
 > *This post contains affiliate links. If you purchase via our link, we may earn a small commission — at no extra cost to you. It helps support the blog and keeps it ad-free. Thanks for your support!*
 
----
 
-## 🧾 Related Products You May Like
+## 🧾 Related White Noise Machines You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/dodow-sleep-aid-review/">Dodow Sleep Aid – Breathing Light to Calm the Mind</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/hatch-restore-2-review/">Hatch Restore 2 – Wake-Up Light + Sleep Sound Assistant</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/yogasleep-duet-review/">Yogasleep Duet – White Noise + Nightlight Combo for Families</a>
-  </li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
 </ul>

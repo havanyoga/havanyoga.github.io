@@ -3,6 +3,7 @@ layout: post
 title: "Hatch Restore 2 Review – All-in-One Sleep Assistant"
 subtitle: "A complete review of Hatch Restore 2, the smart sleep machine with sunrise alarm that’s redefining bedtime routines."
 tags: [Product reviews, Sleep Devices]
+cover-img: /assets/img/cover.png
 author: Ha Hoang
 ---
 
@@ -22,7 +23,7 @@ The Hatch Restore 2 combines a gentle sunrise alarm, soothing sleep sounds, and 
 
 ![Hatch Restore 2](https://m.media-amazon.com/images/I/819o21WSPiL._AC_SL1500_.jpg)
 
-[![View on Amazon](/assets/img/view.png)](https://amzn.to/3YDKuhx?tag=havan07-20)
+[![View on Amazon](/assets/img/view.png)](https://amzn.to/3YDKuhx)
 
 ---
 
@@ -104,28 +105,17 @@ A: Yes! You can adjust the brightness and color temperature to suit your eyes.
 
 If you're serious about optimizing your sleep environment, the **Hatch Restore 2** is an all-in-one solution worth trying. Its gentle sunrise, relaxing sounds, and thoughtful design support better sleep — naturally.
 
-[![Check Price on Amazon](/assets/img/checkprice.png)](https://amzn.to/3YDKuhx?tag=havan07-20)
+[![Check Price on Amazon](/assets/img/checkprice.png)](https://amzn.to/3YDKuhx)
 
 > *This post contains affiliate links. If you make a purchase through these links, I may earn a small commission — at no extra cost to you. It helps keep this blog running. Thank you!*
 
----
 
-## 🧾 Related Products You May Like
+## 🧾 Related White Noise Machines You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/dodow-sleep-aid-review/">Dodow Sleep Aid – Breathing Light to Calm the Mind</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/hatch-restore-2-review/">Hatch Restore 2 – Wake-Up Light + Sleep Sound Assistant</a>
-  </li>
-  <li>
-    🔗 <a href="https://havan.yoga/2025/05/13/yogasleep-duet-review/">Yogasleep Duet – White Noise + Nightlight Combo for Families</a>
-  </li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
 </ul>
