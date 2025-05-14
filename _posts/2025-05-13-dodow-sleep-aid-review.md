@@ -28,7 +28,7 @@ The Dodow projects a rhythmic halo of blue light onto your ceiling. You match yo
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4jMNq3T" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4jMNq3T?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -114,7 +114,7 @@ A: Many users with occasional or chronic insomnia report improved sleep latency 
 If you're tired of lying awake at night and want to **retrain your body to fall asleep naturally**, the **Dodow Sleep Aid** is a simple yet powerful solution. Touch. Breathe. Sleep.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4jMNq3T" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4jMNq3T?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>
