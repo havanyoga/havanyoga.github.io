@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/b7c9817a-d13b-4165-abf0-f6f3c7edbde6)---
+---
 layout: post
 title: "URPOWER 2nd Gen Diffuser Review – Mist, Mood Light, and Affordability"
 subtitle: "A budget-friendly essential oil diffuser with LED light, cool mist, and automatic shut-off."
 tags: [Product reviews, Essential Oil Diffusers]
-cover-img: https://m.media-amazon.com/images/I/61yxa96nKfL._AC_SL1500_.jpg
+cover-img: https://m.media-amazon.com/images/I/51rbMI1C8eL._AC_SL1500_.jpg
 author: Ha Hoang
 ---
 
