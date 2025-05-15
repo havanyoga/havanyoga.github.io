@@ -22,7 +22,7 @@ Blue light from phones and computers suppresses melatonin production, making it 
 - Journaling
 - Listening to calming white noise (see habit #5)
 
-<img src="/assets/img/bedtime-reading.jpg" alt="bedtime-reading.jpg" width="100%" style="max-width:800px; height:auto; margin: 1em 0;">
+<img src="/assets/img/bedtime-reading.jpg" alt="bedtime-reading.jpg" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
 ---
 
@@ -32,7 +32,7 @@ A poor sleep posture can cause neck pain and disrupt your sleep. A high-quality,
 
 👉 Read the full review: [Coop Adjustable Pillow Review: Best Pillow for Side Sleepers in 2025](/2025-05-02-coop-adjustable-pillow-review/)
 
-<img src="/assets/img/coop-pillow-sleeper.jpg" alt="coop-pillow-sleeper.jpg" width="100%" style="max-width:800px; height:auto; margin: 1em 0;">
+<img src="/assets/img/coop-pillow-sleeper.jpg" alt="coop-pillow-sleeper.jpg" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
 ---
 
@@ -46,7 +46,7 @@ Even small amounts of light can interfere with your REM sleep. Keep your bedroom
 - [Top 5 Sleep Masks for a Better Night’s Rest](/2025-05-13-best-sleep-masks-for-better-sleep/)
 - [MZOO Sleep Eye Mask Review](/2025-05-13-mzoo-sleep-eye-mask-review/)
 
-<img src="/assets/img/sleep-mask-dark-room.jpg" alt="sleep-mask-dark-room.jpg" width="100%" style="max-width:800px; height:auto; margin: 1em 0;">
+<img src="/assets/img/sleep-mask-dark-room.jpg" alt="sleep-mask-dark-room.jpg" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
 ---
 
@@ -64,7 +64,7 @@ White noise helps mask background sounds that may wake you up at night. Consider
 - [Top 5 White Noise Machines for Deep Sleep](/2025-05-14-best-white-noise-machines-for-deep-sleep/)
 - [LectroFan White Noise Machine Review](/2025-05-14-lectrofan-white-noise-machine-review/)
 
-<img src="/assets/img/white-noise-bedside.jpg" alt="white-noise-bedside.jpg" width="100%" style="max-width:800px; height:auto; margin: 1em 0;">
+<img src="/assets/img/white-noise-bedside.jpg" alt="white-noise-bedside.jpg" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
 ---
 
@@ -76,7 +76,7 @@ Aromatherapy can ease stress and promote relaxation. Try diffusing essential oil
 - [Top 5 Essential Oil Diffusers for Sleep and Relaxation](/2025-05-14-best-essential-oil-diffusers-for-sleep/)
 - [URPOWER Essential Oil Diffuser Review](/2025-05-14-urpower-diffuser-review/)
 
-<img src="/assets/img/lavender-diffuser-bedroom.jpg" alt="lavender-diffuser-bedroom.jpg" width="100%" style="max-width:800px; height:auto; margin: 1em 0;">
+<img src="/assets/img/lavender-diffuser-bedroom.jpg" alt="lavender-diffuser-bedroom.jpg" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
 ---
 
