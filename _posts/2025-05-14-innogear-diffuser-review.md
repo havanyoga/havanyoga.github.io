@@ -3,7 +3,7 @@ layout: post
 title: "InnoGear Diffuser Review – Compact and Quiet for Office Desks"
 subtitle: "A small but mighty essential oil diffuser ideal for desks, dorms, or bedside relaxation."
 tags: [Product reviews, Essential Oil Diffusers]
-cover-img: https://m.media-amazon.com/images/I/61AI03DfqGL._AC_SL1500_.jpg
+cover-img: https://m.media-amazon.com/images/I/51IwYHykGqL._AC_SL1500_.jpg
 author: Ha Hoang
 ---
 
@@ -21,9 +21,9 @@ It’s a solid pick for beginners, students, or office workers who want a **smal
 **Highlight:** Small size with cool mist and 7 soothing LED lights
 
 <div style="text-align:center;">
-  <img src="https://m.media-amazon.com/images/I/61AI03DfqGL._AC_SL1500_.jpg" alt="InnoGear Essential Oil Diffuser" style="width:400px; height:auto;" />
+  <img src="https://m.media-amazon.com/images/I/51IwYHykGqL._AC_SL1500_.jpg" alt="InnoGear Essential Oil Diffuser" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/3Vpl8Fg" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4kkPcZX" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **InnoGear Essential Oil Diffuser** proves that great things come in small p
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/3Vpl8Fg" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4kkPcZX" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
