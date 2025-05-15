@@ -104,8 +104,8 @@ The **Vitruvi Stone Diffuser** isn’t just a diffuser—it’s a design stateme
 ## 🧾 Related Essential Oil Diffusers You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-14/urpower-2nd-gen-diffuser-review/">URPOWER 2nd Gen – Affordable Mist & LED Combo</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14/innogear-diffuser-review/">InnoGear – Compact Diffuser for Office Desks</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14/asakuki-500ml-diffuser-review/">Asakuki – Large Capacity with Timer and Mist Modes</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14/purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-urpower-2nd-gen-diffuser-review/">URPOWER 2nd Gen – Affordable Mist & LED Combo</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-innogear-diffuser-review/">InnoGear – Compact Diffuser for Office Desks</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-asakuki-500ml-diffuser-review/">Asakuki – Large Capacity with Timer and Mist Modes</a></li>
+  <li>🔗 <a href="https://havan.yoga/2025-05-14-purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
 </ul>
