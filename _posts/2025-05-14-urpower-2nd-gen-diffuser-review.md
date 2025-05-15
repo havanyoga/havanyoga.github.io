@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b7c9817a-d13b-4165-abf0-f6f3c7edbde6)---
 layout: post
 title: "URPOWER 2nd Gen Diffuser Review – Mist, Mood Light, and Affordability"
 subtitle: "A budget-friendly essential oil diffuser with LED light, cool mist, and automatic shut-off."
@@ -21,9 +21,9 @@ In this review, we’ll explore why this Amazon bestseller remains a top choice 
 **Highlight:** Affordable ultrasonic diffuser with 7 LED lights and 100ml capacity
 
 <div style="text-align:center;">
-  <img src="https://m.media-amazon.com/images/I/61yxa96nKfL._AC_SL1500_.jpg" alt="URPOWER 2nd Gen Diffuser" style="width:400px; height:auto;" />
+  <img src="https://m.media-amazon.com/images/I/51rbMI1C8eL._AC_SL1500_.jpg" alt="URPOWER 2nd Gen Diffuser" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4bTUW2H" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/44CQNpq" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **URPOWER 2nd Gen Diffuser** is the little diffuser that could—delivering 
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4bTUW2H" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/44CQNpq" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
