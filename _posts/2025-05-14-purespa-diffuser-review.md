@@ -3,7 +3,7 @@ layout: post
 title: "PureSpa Diffuser Review – Soft Light Meets Everyday Aromatherapy"
 subtitle: "A gentle, compact diffuser with ambient lighting and consistent mist for daily stress relief."
 tags: [Product reviews, Essential Oil Diffusers]
-cover-img: https://m.media-amazon.com/images/I/61SKw5xvE7L._AC_SL1500_.jpg
+cover-img: https://m.media-amazon.com/images/I/71qkJBmSPIL._AC_SL1500_.jpg
 author: Ha Hoang
 ---
 
@@ -21,9 +21,9 @@ It’s a great option if you're looking for an **essential oil diffuser with amb
 **Highlight:** Stylish and compact with soft-glow LED lighting and silent operation
 
 <div style="text-align:center;">
-  <img src="https://m.media-amazon.com/images/I/61SKw5xvE7L._AC_SL1500_.jpg" alt="PureSpa Diffuser" style="width:400px; height:auto;" />
+  <img src="https://m.media-amazon.com/images/I/71qkJBmSPIL._AC_SL1500_.jpg" alt="PureSpa Diffuser" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/3VxE0n5" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4jVbO3p" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **Pure Enrichment PureSpa Diffuser** is a wonderful choice for daily use, sm
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/3VxE0n5" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://amzn.to/4jVbO3p" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
