@@ -13,7 +13,7 @@ Tired of staring at the ceiling every night? You’re not alone. Millions strugg
 
 That’s why we’ve compiled this list of the **Top 5 Natural Sleep Devices 2025** — tools that help you fall asleep **without medication**, using light, breath, or sound. Each device in this list is **non-invasive**, **drug-free**, and **designed to work with your body**, not against it.
 
-Explore our [homepage on natural sleep solutions](https://havan.yoga) for more expert picks.
+Explore our [homepage on natural sleep solutions](/) for more expert picks.
 
 ---
 
