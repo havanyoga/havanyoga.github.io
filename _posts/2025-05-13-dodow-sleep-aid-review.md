@@ -13,7 +13,7 @@ Do you find yourself staring at the ceiling for hours, mind racing, unable to dr
 
 This **Dodow sleep aid review** introduces a different approach: a **natural sleep trainer device** that uses light and breath pacing to teach your body how to fall asleep. No drugs, no screens, just a touch-activated circle of calm.
 
-Want to discover more tools for better sleep? Check out our [homepage on natural sleep solutions](https://havan.yoga) for curated product picks.
+Want to discover more tools for better sleep? Check out our [homepage on natural sleep solutions](/) for curated product picks.
 
 ---
 
@@ -126,10 +126,10 @@ If you're tired of lying awake at night and want to **retrain your body to fall 
 ## 🧾 Related Sleep Masks You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
+  <li>🔗 <a href="/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
+  <li>🔗 <a href="/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
+  <li>🔗 <a href="/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
+  <li>🔗 <a href="/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
+  <li>🔗 <a href="/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
 </ul>
 
