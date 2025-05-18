@@ -104,9 +104,9 @@ If you need a **white noise machine that’s portable, multi-functional, and bab
 ## 🧾 Related White Noise Machines You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
+  <li>🔗 <a href="/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
+  <li>🔗 <a href="/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
+  <li>🔗 <a href="/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
+  <li>🔗 <a href="/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
+  <li>🔗 <a href="/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
 </ul>
