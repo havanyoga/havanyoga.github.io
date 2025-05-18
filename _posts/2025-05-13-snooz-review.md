@@ -13,7 +13,7 @@ Have trouble falling asleep because of background noise or an overactive mind? D
 
 In this **SNOOZ white noise machine review**, we explore why SNOOZ stands out as the **best fan sound machine for sleep**. If you're craving authentic fan-based noise with modern features, this may be your perfect nightstand companion.
 
-To discover more natural sleep aids, visit our [homepage on better sleep solutions](https://havan.yoga) for curated picks.
+To discover more natural sleep aids, visit our [homepage on better sleep solutions](/) for curated picks.
 
 ---
 
@@ -128,9 +128,9 @@ If you're serious about upgrading your sleep environment and want **realistic, s
 ## 🧾 Related White Noise Machines You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
+  <li>🔗 <a href="/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
+  <li>🔗 <a href="/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
+  <li>🔗 <a href="/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
+  <li>🔗 <a href="/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
+  <li>🔗 <a href="/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
 </ul>
