@@ -103,10 +103,10 @@ If you’re looking for a **contoured sleep mask for travel** that blocks light 
 ## 🧾 Related Sleep Masks You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
+  <li>🔗 <a href="/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
+  <li>🔗 <a href="/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
+  <li>🔗 <a href="/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
+  <li>🔗 <a href="/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
+  <li>🔗 <a href="/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
 </ul>
 
