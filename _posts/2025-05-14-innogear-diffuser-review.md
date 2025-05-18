@@ -104,8 +104,8 @@ The **InnoGear Essential Oil Diffuser** proves that great things come in small p
 ## 🧾 Related Essential Oil Diffusers You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-vitruvi-stone-diffuser-review/">Vitruvi – Ceramic Elegance for Bedroom Relaxation</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-urpower-2nd-gen-diffuser-review/">URPOWER – Affordable Mist & LED Combo</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-asakuki-500ml-diffuser-review/">Asakuki – Large Capacity with Timer and Mist Modes</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
+  <li>🔗 <a href="/2025-05-14-vitruvi-stone-diffuser-review/">Vitruvi – Ceramic Elegance for Bedroom Relaxation</a></li>
+  <li>🔗 <a href="/2025-05-14-urpower-2nd-gen-diffuser-review/">URPOWER – Affordable Mist & LED Combo</a></li>
+  <li>🔗 <a href="/2025-05-14-asakuki-500ml-diffuser-review/">Asakuki – Large Capacity with Timer and Mist Modes</a></li>
+  <li>🔗 <a href="/2025-05-14-purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
 </ul>
