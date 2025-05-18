@@ -24,7 +24,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
-> 🔗 [Read full review →](https://havan.yoga/2025-05-13-hatch-restore-2-review/)
+> 🔗 [Read full review →](/2025-05-13-hatch-restore-2-review/)
 
 ---
 
@@ -38,7 +38,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
-> 🔗 [Read full review →](https://havan.yoga/2025-05-13-snooz-review/)
+> 🔗 [Read full review →](/2025-05-13-snooz-review/)
 
 ---
 
@@ -52,7 +52,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
-> 🔗 [Read full review →](https://havan.yoga/2025-05-13-yogasleep-duet-review/)
+> 🔗 [Read full review →](/2025-05-13-yogasleep-duet-review/)
 
 ---
 
@@ -66,7 +66,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
-> 🔗 [Read full review →](https://havan.yoga/2025-05-14-lectrofan-classic-review/)
+> 🔗 [Read full review →](/2025-05-14-lectrofan-classic-review/)
 
 ---
 
@@ -80,7 +80,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
-> 🔗 [Read full review →](https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/)
+> 🔗 [Read full review →](/2025-05-14-dreamegg-d3-pro-review/)
 
 ---
 
