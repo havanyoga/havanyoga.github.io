@@ -12,7 +12,7 @@ Does your baby wake up at the slightest sound? Are sleepless nights affecting th
 
 Enter the **Yogasleep Duet** — a white noise machine designed for both babies and adults. In this **Yogasleep Duet review**, we’ll explore how this compact sound machine can create a calming sleep environment for your family. Whether you're looking for a **white noise machine for baby** or a simple solution to improve sleep quality, the Duet may be just what you need.
 
-If you're new to the blog, check out our [stress-free sleep essentials homepage](https://havan.yoga) for more product recommendations.
+If you're new to the blog, check out our [stress-free sleep essentials homepage](/) for more product recommendations.
 
 ---
 
@@ -125,9 +125,9 @@ If you're looking for a **white noise machine for baby** that also works for the
 ## 🧾 Related White Noise Machines You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
+  <li>🔗 <a href="/2025-05-13-snooz-review/">SNOOZ – Real Fan White Noise for Deep Sleep</a></li>
+  <li>🔗 <a href="/2025-05-13-yogasleep-duet-review/">Yogasleep Duet – Sound + Nightlight Combo for Families</a></li>
+  <li>🔗 <a href="/2025-05-14-lectrofan-classic-review/">LectroFan Classic – Compact and Powerful Sound Machine</a></li>
+  <li>🔗 <a href="/2025-05-13-hatch-restore-2-review/">Hatch Restore 2 – Sunrise Alarm + Sleep Assistant</a></li>
+  <li>🔗 <a href="/2025-05-14-dreamegg-d3-pro-review/">Dreamegg D3 Pro – Portable Sound Machine with Night Light</a></li>
 </ul>
