@@ -104,8 +104,8 @@ The **Asakuki 500ml Diffuser** balances functionality, size, and affordability b
 ## 🧾 Related Essential Oil Diffusers You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-vitruvi-stone-diffuser-review/">Vitruvi – Ceramic Elegance for Bedroom Relaxation</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-urpower-2nd-gen-diffuser-review/">URPOWER – Affordable Mist & LED Combo</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-innogear-diffuser-review/">InnoGear – Compact Diffuser for Office Desks</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
+  <li>🔗 <a href="/2025-05-14-vitruvi-stone-diffuser-review/">Vitruvi – Ceramic Elegance for Bedroom Relaxation</a></li>
+  <li>🔗 <a href="/2025-05-14-urpower-2nd-gen-diffuser-review/">URPOWER – Affordable Mist & LED Combo</a></li>
+  <li>🔗 <a href="/2025-05-14-innogear-diffuser-review/">InnoGear – Compact Diffuser for Office Desks</a></li>
+  <li>🔗 <a href="/2025-05-14-purespa-diffuser-review/">PureSpa – Calm Lighting + Aromatherapy</a></li>
 </ul>
