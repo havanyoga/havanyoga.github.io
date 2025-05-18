@@ -13,7 +13,7 @@ Do you often wake up at sunrise even when you desperately need more sleep? Or st
 
 If so, this **Manta Sleep Mask review** will show you why it’s considered the **best sleep mask for side sleepers**. Unlike traditional sleep masks that press on your eyelids or leak light at the edges, Manta offers true blackout, custom fit, and all-night comfort – even for side sleepers.
 
-Want more gear for stress-free sleep? Visit our [homepage on better sleep solutions](https://havan.yoga) to explore top-rated products.
+Want more gear for stress-free sleep? Visit our [homepage on better sleep solutions](/) to explore top-rated products.
 
 ---
 
@@ -127,10 +127,10 @@ If light is ruining your sleep, and especially if you sleep on your side, the **
 ## 🧾 Related Sleep Masks You May Like
 
 <ul style="list-style: none; padding-left: 0;">
-  <li>🔗 <a href="https://havan.yoga/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
-  <li>🔗 <a href="https://havan.yoga/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
+  <li>🔗 <a href="/2025-05-13-manta-sleep-mask-review/">Manta Sleep Mask – Total Blackout for Side Sleepers</a></li>
+  <li>🔗 <a href="/2025-05-14-alaska-bear-silk-sleep-mask-review/">Alaska Bear Silk Sleep Mask – Soft & Smooth for Every Face</a></li>
+  <li>🔗 <a href="/2025-05-14-tempur-pedic-sleep-mask-review/">Tempur-Pedic Sleep Mask – Memory Foam Comfort for Restful Nights</a></li>
+  <li>🔗 <a href="/2025-05-14-nidra-sleep-mask-review/">Nidra Deep Rest Mask – Lightweight Contoured Mask for Travel</a></li>
+  <li>🔗 <a href="/2025-05-14-bucky-40-blinks-review/">Bucky 40 Blinks – Travel-Friendly and Featherlight Eye Mask</a></li>
 </ul>
 
