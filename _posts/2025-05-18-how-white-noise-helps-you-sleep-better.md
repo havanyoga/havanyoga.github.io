@@ -9,19 +9,25 @@ author: Ha Hoang
 
 # How White Noise Helps You Sleep Better – Backed by Science
 
-![White noise helps you sleep deeper](/assets/img/white-noise-sleep.jpg)
+<div style="text-align:center;">
+  <img src="/assets/img/white-noise-sleep.jpg" alt="White noise helps you sleep deeper" width="600" />
+</div>
 
 ## What Is White Noise?
 
 White noise is a sound that includes all frequencies the human ear can hear, playing at equal intensity. It typically sounds like a constant "shhh"—similar to a fan, static, or steady rainfall. There are also other types like pink noise and brown noise, each with different frequency emphasis.
 
-![Frequency spectrum of white vs. pink noise](/assets/img/white-noise-vs-pink-noise.png)
+<div style="text-align:center;">
+  <img src="/assets/img/white-noise-vs-pink-noise.png" alt="Frequency spectrum of white vs. pink noise" width="600" />
+</div>
 
 ## The Science of Sleep and Sound
 
 Sudden sounds like car horns, barking dogs, or hallway chatter can disrupt your sleep, even if you don’t fully wake up. These sounds trigger startle responses in your brain, increasing heart rate and breaking sleep cycles. White noise creates a stable auditory environment that masks those disruptions and helps maintain deep sleep.
 
-![How white noise calms the brain during sleep](/assets/img/brain-response-white-noise.jpg)
+<div style="text-align:center;">
+  <img src="/assets/img/brain-response-white-noise.jpg" alt="How white noise calms the brain during sleep" width="600" />
+</div>
 
 ## How White Noise Improves Sleep Quality
 
@@ -47,13 +53,17 @@ If you're looking to try white noise for better sleep, start with these trusted 
 - 🔗 [LectroFan Classic Review](/2025-05-14-lectrofan-classic-review/)
 - 🔗 [Yogasleep Duet Review](/2025-05-13-yogasleep-duet-review/)
 
-![Popular white noise machines in use](/assets/img/white-noise-machine-bedroom.jpg)
+<div style="text-align:center;">
+  <img src="/assets/img/white-noise-machine-bedroom.jpg" alt="Popular white noise machines in use" width="600" />
+</div>
 
 ## Final Thoughts
 
 White noise is a simple, natural tool that can help you fall asleep faster and stay asleep longer. It's not a one-size-fits-all solution, but it's worth trying—especially if you're sensitive to noise at night.
 
-![Relaxing bedroom with white noise ambience](/assets/img/cozy-bedroom-white-noise.jpg)
+<div style="text-align:center;">
+  <img src="/assets/img/cozy-bedroom-white-noise.jpg" alt="Relaxing bedroom with white noise ambience" width="600" />
+</div>
 
 ---
 
