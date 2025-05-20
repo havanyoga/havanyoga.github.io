@@ -1,8 +1,9 @@
 ---
-title: "Weighted Blankets"
-permalink: "/weighted-blankets/"
-layout: group
+layout: page
+title: "Weighted blankets"
+permalink: /weighted-blankets/
 ---
+
 
 Discover our curated collection of **weighted blankets** designed to help reduce anxiety, promote deeper sleep, and bring calm to your nights. These products are ideal for anyone seeking comfort and gentle pressure therapy.
 
