@@ -19,13 +19,13 @@ author: Ha Hoang
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar-links: 
+  White Noise Machine: "/white-noise-machines/"
+  Sleep Mask: "/sleep-mask/"
+  Diffusers: "/diffusers/"
+  Weighted Blankets: "/weighted-blankets/"
   Sleep Tips: "#"
-  Natural Remedies: "#"
-  Product Reviews: "#"
-  Learn: "#"
-  Contact: "#"
-
+  
 ################
 # --- Logo --- #
 ################
