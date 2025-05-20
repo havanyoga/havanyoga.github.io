@@ -1,6 +1,6 @@
 ---
 title: "Weighted Blankets"
-permalink: "/product-groups/weighted-blankets/"
+permalink: "/weighted-blankets/"
 layout: group
 ---
 
