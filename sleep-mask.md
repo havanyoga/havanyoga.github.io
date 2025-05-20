@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sleep Masks"
-permalink: /sleep-masks/
+permalink: /sleep-mask/
 ---
 
 # Best Sleep Masks for Side Sleepers and Deep Rest (2025 Guide)
