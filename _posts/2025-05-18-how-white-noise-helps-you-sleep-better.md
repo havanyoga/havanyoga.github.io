@@ -3,7 +3,6 @@ layout: post
 title: "How White Noise Helps You Sleep Better – Backed by Science"
 subtitle: "Explore the scientific benefits of white noise and how it supports deeper, uninterrupted sleep."
 tags: [Sleep Science, White Noise, Better Sleep, Tips]
-cover-img: /assets/img/white-noise-sleep.jpg
 author: Ha Hoang
 ---
 
