@@ -4,7 +4,6 @@ title: "How Weighted Blankets Reduce Anxiety – Science Explained"
 subtitle: "Discover the science behind how weighted blankets help reduce anxiety and promote calm."
 author: Ha Hoang
 tags: [Weighted Blankets, Anxiety Relief, Sleep Tips, Stress Science, Deep Pressure Stimulation]
-cover-img: /assets/img/weighted-blanket-anxiety-cover.jpg
 permalink: /how-weighted-blankets-reduce-anxiety/
 ---
 
