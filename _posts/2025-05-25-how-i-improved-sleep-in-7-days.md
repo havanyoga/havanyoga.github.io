@@ -6,7 +6,7 @@ permalink: /how-i-improved-sleep-in-7-days/
 tags: [better sleep, stress relief, sleep tips, diffuser, white noise]
 ---
 
-![Sleeping peacefully in warm lighting](/assets/img/img1.png)
+![Sleeping peacefully in warm lighting](/assets/img/img1.png){: width="600"}
 *My bedtime space looked nothing like this at first... but it inspired me to try.*
 
 I used to toss and turn for hours. Even after an exhausting day, my mind wouldn't stop racing. Melatonin didn’t help much. What finally worked for me was a combination of simple habits, tools, and a bit of consistency — no pills needed.
@@ -23,7 +23,7 @@ I turned off screens an hour before bedtime — no Netflix, no scrolling. Instea
 
 I started diffusing lavender essential oil 30 minutes before bed. The scent had an immediate calming effect.
 
-![Lavender essential oil diffuser](/assets/img/img2.png)
+![Lavender essential oil diffuser](/assets/img/img2.png){: width="600"}
 *Aroma diffuser helped set the tone for sleep each night.*
 
 > 👉 Curious what diffuser I use? [Here are my top 5 essential oil diffusers for better sleep](/2025-05-14-top-5-essential-oil-diffusers-2025/).
@@ -54,7 +54,7 @@ I didn't do everything perfectly each day — but I did my best. And it paid off
 
 ---
 
-![Waking up refreshed in natural light](/assets/img/img3.png)
+![Waking up refreshed in natural light](/assets/img/img3.png){: width="600"}
 *A new morning after a full, deep night’s sleep.*
 
 If you’re struggling with sleep, don’t overthink it. Start small. One change per night made a real difference for me. You don’t need meds — just a bit of intention and the right tools.
