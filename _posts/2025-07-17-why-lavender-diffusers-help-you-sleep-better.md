@@ -1,10 +1,13 @@
 ---
+
 title: "Why Lavender Diffusers Help You Sleep Better"
 layout: post
 date: 2025-05-26
 permalink: /why-lavender-diffusers-help-sleep/
 tags: \[lavender, essential oils, diffuser, sleep tips, stress relief]
----
+----------------------------------------------------------------------
+
+![Lavender diffuser on bedside table](/assets/img/lavender-diffuser-bedside.jpg){: .center-img }
 
 If you've ever walked into a spa or yoga studio and felt instantly relaxed, chances are you were greeted by the calming scent of lavender. But lavender isn't just for ambiance — it’s scientifically backed to help you sleep better.
 
@@ -26,6 +29,8 @@ Several clinical studies have found that lavender aromatherapy can significantly
 
 ## 🌙 Why Diffusing Lavender at Night Works
 
+![Spa-like setting with diffuser and candles](/assets/img/lavender-diffuser-spa.jpg){: .center-img }
+
 Diffusing essential oils allows the aroma to gently fill your room. When inhaled, lavender's compounds interact with your limbic system — the brain’s emotional center — which helps quiet the mind.
 
 Many people report falling asleep faster and waking up fewer times during the night when using a diffuser consistently.
@@ -35,6 +40,8 @@ Many people report falling asleep faster and waking up fewer times during the ni
 ---
 
 ## 🧴 Choosing the Right Diffuser
+
+![Wooden diffuser and lavender oil bottle in cozy room](/assets/img/lavender-diffuser-wood.jpg){: .center-img }
 
 To get the full sleep benefits of lavender, you need a **reliable, quiet diffuser** that runs for several hours.
 
@@ -60,6 +67,8 @@ Look for features like:
 ---
 
 ## Final Thoughts
+
+![Lavender reed diffuser on shelf](/assets/img/lavender-reed-diffuser.jpg){: .center-img }
 
 Lavender essential oil is one of the simplest, gentlest, and most effective natural tools to promote deep, restful sleep.
 
