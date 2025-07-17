@@ -3,7 +3,7 @@ title: "The Best Sleep Schedule: What Science Says and How to Build One"
 layout: post
 date: 2025-05-27
 permalink: /best-sleep-schedule-science-tips/
-tags: \[sleep schedule, circadian rhythm, sleep tips, stress relief, better sleep]
+tags: [sleep schedule, circadian rhythm, sleep tips, stress relief, better sleep]
 ---
 
 Getting quality sleep isn't just about how many hours you spend in bed — it’s also **when** you sleep that matters. Your body follows a natural cycle known as the **circadian rhythm**, and aligning your sleep schedule with it can dramatically improve how you feel.
@@ -99,13 +99,3 @@ You don’t need to overhaul your entire lifestyle to get better sleep. Just sta
 Aligning with your natural body clock can make sleep easier, deeper, and more energizing.
 
 > Ready to start sleeping better? Begin tonight by going to bed 15 minutes earlier — and keep it consistent for a week.
-
----
-
-## 📸 Image sources (Unsplash suggestions):
-
-* [https://unsplash.com/photos/Fj0tNLeFh7A](https://unsplash.com/photos/Fj0tNLeFh7A) (morning light – `morning-wake-light.jpg`)
-* [https://unsplash.com/photos/0IVop5v4MMU](https://unsplash.com/photos/0IVop5v4MMU) (clock/moon – `night-clock-moon.jpg`)
-* [https://unsplash.com/photos/SMdVZSWaD7s](https://unsplash.com/photos/SMdVZSWaD7s) (bedroom lamp – `bedtime-diffuser-lamp.jpg`)
-
----
