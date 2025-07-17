@@ -4,7 +4,7 @@ title: "Why Lavender Diffusers Help You Sleep Better"
 layout: post
 date: 2025-05-26
 permalink: /why-lavender-diffusers-help-sleep/
-tags: \[lavender, essential oils, diffuser, sleep tips, stress relief]
+tags: [lavender, essential oils, diffuser, sleep tips, stress relief]
 ----------------------------------------------------------------------
 
 ![Lavender diffuser on bedside table](/assets/img/lavender-diffuser-bedside.jpg){: .center-img }
