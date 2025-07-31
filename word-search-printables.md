@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Word Search Printables"
-permalink: /printables/word-search/
+permalink: /printables/
 description: "Printable word search games with answer keys — perfect for stress relief and fun learning."
 ---
 
@@ -52,106 +52,22 @@ description: "Printable word search games with answer keys — perfect for stres
 
 # 🧠 Word Search Printables
 
-Enjoy printable word search games with answer keys — perfect for relaxation and fun learning!
+Enjoy printable word search games with answer keys — perfect for relaxation and fun learning.
 
 <div class="word-search-grid">
-<div class="word-search-item">
-  <h3>Challenging Halloween Word Search For Middle School Students</h3>
-  <img src="/assets/pre/challenging-halloween-word-search-for-middle-school-students-preview.png" alt="Challenging Halloween Word Search For Middle School Students Preview">
-  <img src="/assets/pre/challenging-halloween-word-search-for-middle-school-students-key.png" alt="Challenging Halloween Word Search For Middle School Students Answer Key">
-  <a class="download-btn" href="/assets/pre/challenging-halloween-word-search-for-middle-school-students.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Easy Halloween Word Search For First Grade</h3>
-  <img src="/assets/pre/easy-halloween-word-search-for-first-grade-preview.png" alt="Easy Halloween Word Search For First Grade Preview">
-  <img src="/assets/pre/easy-halloween-word-search-for-first-grade-key.png" alt="Easy Halloween Word Search For First Grade Answer Key">
-  <a class="download-btn" href="/assets/pre/easy-halloween-word-search-for-first-grade.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Free Halloween Word Search Printable For Kindergarten</h3>
-  <img src="/assets/pre/free-halloween-word-search-printable-for-kindergarten-preview.png" alt="Free Halloween Word Search Printable For Kindergarten Preview">
-  <a class="download-btn" href="/assets/pre/free-halloween-word-search-printable-for-kindergarten.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Fun Halloween Word Search Worksheets For Kids</h3>
-  <img src="/assets/pre/fun-halloween-word-search-worksheets-for-kids-preview.png" alt="Fun Halloween Word Search Worksheets For Kids Preview">
-  <img src="/assets/pre/fun-halloween-word-search-worksheets-for-kids-key.png" alt="Fun Halloween Word Search Worksheets For Kids Answer Key">
-  <a class="download-btn" href="/assets/pre/fun-halloween-word-search-worksheets-for-kids.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search For Adults</h3>
-  <img src="/assets/pre/halloween-word-search-for-adults-preview.png" alt="Halloween Word Search For Adults Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-for-adults.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search For Kids 2025</h3>
-  <img src="/assets/pre/halloween-word-search-for-kids-2025-preview.png" alt="Halloween Word Search For Kids 2025 Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-for-kids-2025.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search For Kindergarten</h3>
-  <img src="/assets/pre/halloween-word-search-for-kindergarten-preview.png" alt="Halloween Word Search For Kindergarten Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-for-kindergarten.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search For Teachers</h3>
-  <img src="/assets/pre/halloween-word-search-for-teachers-preview.png" alt="Halloween Word Search For Teachers Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-for-teachers.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search Grade 1</h3>
-  <img src="/assets/pre/halloween-word-search-grade-1-preview.png" alt="Halloween Word Search Grade 1 Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-grade-1.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search Grade 3 4</h3>
-  <img src="/assets/pre/halloween-word-search-grade-3-4-preview.png" alt="Halloween Word Search Grade 3 4 Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-grade-3-4.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search Printable</h3>
-  <img src="/assets/pre/halloween-word-search-printable-preview.png" alt="Halloween Word Search Printable Preview">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-printable.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search With Answer Key</h3>
-  <img src="/assets/pre/halloween-word-search-with-answer-key-preview.png" alt="Halloween Word Search With Answer Key Preview">
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search With Answer</h3>
-  <img src="/assets/pre/halloween-word-search-with-answer-key.png" alt="Halloween Word Search With Answer Answer Key">
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Word Search With Pictures For Preschoolers</h3>
-  <img src="/assets/pre/halloween-word-search-with-pictures-for-preschoolers-preview.png" alt="Halloween Word Search With Pictures For Preschoolers Preview">
-  <img src="/assets/pre/halloween-word-search-with-pictures-for-preschoolers-key.png" alt="Halloween Word Search With Pictures For Preschoolers Answer Key">
-  <a class="download-btn" href="/assets/pre/halloween-word-search-with-pictures-for-preschoolers.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Halloween Words That Start With A</h3>
-  <img src="/assets/pre/halloween-words-that-start-with-a-preview.png" alt="Halloween Words That Start With A Preview">
-  <img src="/assets/pre/halloween-words-that-start-with-a-key.png" alt="Halloween Words That Start With A Answer Key">
-  <a class="download-btn" href="/assets/pre/halloween-words-that-start-with-a.pdf" download>📥 Download PDF</a>
-</div>
-
-<div class="word-search-item">
-  <h3>Hard Halloween Word Search Printable For Adults</h3>
-  <img src="/assets/pre/hard-halloween-word-search-printable-for-adults-preview.png" alt="Hard Halloween Word Search Printable For Adults Preview">
-  <img src="/assets/pre/hard-halloween-word-search-printable-for-adults-key.png" alt="Hard Halloween Word Search Printable For Adults Answer Key">
-  <a class="download-btn" href="/assets/pre/hard-halloween-word-search-printable-for-adults.pdf" download>📥 Download PDF</a>
-</div>
-</div>
+<div class="word-search-item"><h3>Challenging Halloween Word Search For Middle School Students</h3><img src="/pre/challenging-halloween-word-search-for-middle-school-students-preview.png" alt="Challenging Halloween Word Search For Middle School Students Preview"><img src="/pre/challenging-halloween-word-search-for-middle-school-students-key.png" alt="Challenging Halloween Word Search For Middle School Students Answer Key"><a class="download-btn" href="/pre/challenging-halloween-word-search-for-middle-school-students.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Easy Halloween Word Search For First Grade</h3><img src="/pre/easy-halloween-word-search-for-first-grade-preview.png" alt="Easy Halloween Word Search For First Grade Preview"><img src="/pre/easy-halloween-word-search-for-first-grade-key.png" alt="Easy Halloween Word Search For First Grade Answer Key"><a class="download-btn" href="/pre/easy-halloween-word-search-for-first-grade.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Free Halloween Word Search Printable For Kindergarten</h3><img src="/pre/free-halloween-word-search-printable-for-kindergarten-preview.png" alt="Free Halloween Word Search Printable For Kindergarten Preview"><a class="download-btn" href="/pre/free-halloween-word-search-printable-for-kindergarten.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Fun Halloween Word Search Worksheets For Kids</h3><img src="/pre/fun-halloween-word-search-worksheets-for-kids-preview.png" alt="Fun Halloween Word Search Worksheets For Kids Preview"><img src="/pre/fun-halloween-word-search-worksheets-for-kids-key.png" alt="Fun Halloween Word Search Worksheets For Kids Answer Key"><a class="download-btn" href="/pre/fun-halloween-word-search-worksheets-for-kids.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search For Adults</h3><img src="/pre/halloween-word-search-for-adults-preview.png" alt="Halloween Word Search For Adults Preview"><a class="download-btn" href="/pre/halloween-word-search-for-adults.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search For Kids 2025</h3><img src="/pre/halloween-word-search-for-kids-2025-preview.png" alt="Halloween Word Search For Kids 2025 Preview"><a class="download-btn" href="/pre/halloween-word-search-for-kids-2025.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search For Kindergarten</h3><img src="/pre/halloween-word-search-for-kindergarten-preview.png" alt="Halloween Word Search For Kindergarten Preview"><a class="download-btn" href="/pre/halloween-word-search-for-kindergarten.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search For Teachers</h3><img src="/pre/halloween-word-search-for-teachers-preview.png" alt="Halloween Word Search For Teachers Preview"><a class="download-btn" href="/pre/halloween-word-search-for-teachers.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search Grade 1</h3><img src="/pre/halloween-word-search-grade-1-preview.png" alt="Halloween Word Search Grade 1 Preview"><a class="download-btn" href="/pre/halloween-word-search-grade-1.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search Grade 3 4</h3><img src="/pre/halloween-word-search-grade-3-4-preview.png" alt="Halloween Word Search Grade 3 4 Preview"><a class="download-btn" href="/pre/halloween-word-search-grade-3-4.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search Printable</h3><img src="/pre/halloween-word-search-printable-preview.png" alt="Halloween Word Search Printable Preview"><a class="download-btn" href="/pre/halloween-word-search-printable.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Word Search With Answer Key</h3><img src="/pre/halloween-word-search-with-answer-key-preview.png" alt="Halloween Word Search With Answer Key Preview"></div>
+<div class="word-search-item"><h3>Halloween Word Search With Answer</h3><img src="/pre/halloween-word-search-with-answer-key.png" alt="Halloween Word Search With Answer Answer Key"></div>
+<div class="word-search-item"><h3>Halloween Word Search With Pictures For Preschoolers</h3><img src="/pre/halloween-word-search-with-pictures-for-preschoolers-preview.png" alt="Halloween Word Search With Pictures For Preschoolers Preview"><img src="/pre/halloween-word-search-with-pictures-for-preschoolers-key.png" alt="Halloween Word Search With Pictures For Preschoolers Answer Key"><a class="download-btn" href="/pre/halloween-word-search-with-pictures-for-preschoolers.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Halloween Words That Start With A</h3><img src="/pre/halloween-words-that-start-with-a-preview.png" alt="Halloween Words That Start With A Preview"><img src="/pre/halloween-words-that-start-with-a-key.png" alt="Halloween Words That Start With A Answer Key"><a class="download-btn" href="/pre/halloween-words-that-start-with-a.pdf" download>📥 Download PDF</a></div>
+<div class="word-search-item"><h3>Hard Halloween Word Search Printable For Adults</h3><img src="/pre/hard-halloween-word-search-printable-for-adults-preview.png" alt="Hard Halloween Word Search Printable For Adults Preview"><img src="/pre/hard-halloween-word-search-printable-for-adults-key.png" alt="Hard Halloween Word Search Printable For Adults Answer Key"><a class="download-btn" href="/pre/hard-halloween-word-search-printable-for-adults.pdf" download>📥 Download PDF</a></div></div>
