@@ -23,7 +23,7 @@ The Hatch Restore 2 combines a gentle sunrise alarm, soothing sleep sounds, and 
 
 ![Hatch Restore 2](https://m.media-amazon.com/images/I/819o21WSPiL._AC_SL1500_.jpg)
 
-[![View on Amazon](/assets/img/view.png)](https://amzn.to/3YDKuhx)
+[![View on Amazon](/assets/img/view.png)](https://www.amazon.com/Hatch-Restore-Personal-Routines-Energized/dp/B0C67ZDQLX?tag=havan00e-20)
 
 ---
 
@@ -105,7 +105,7 @@ A: Yes! You can adjust the brightness and color temperature to suit your eyes.
 
 If you're serious about optimizing your sleep environment, the **Hatch Restore 2** is an all-in-one solution worth trying. Its gentle sunrise, relaxing sounds, and thoughtful design support better sleep — naturally.
 
-[![Check Price on Amazon](/assets/img/checkprice.png)](https://amzn.to/3YDKuhx)
+[![Check Price on Amazon](/assets/img/checkprice.png)](https://www.amazon.com/Hatch-Restore-Personal-Routines-Energized/dp/B0C67ZDQLX?tag=havan00e-20)
 
 > *This post contains affiliate links. If you make a purchase through these links, I may earn a small commission — at no extra cost to you. It helps keep this blog running. Thank you!*
 
