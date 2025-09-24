@@ -27,7 +27,7 @@ Designed by the makers of the original white noise machine, the Duet features 30
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Yogasleep-Machine-Wireless-Speaker-Privacy/dp/B08FMWC7KW?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -114,7 +114,7 @@ A: Yes. It’s lightweight, fits in one hand, and runs on USB power.
 If you're looking for a **white noise machine for baby** that also works for the rest of the family, the **Yogasleep Duet** hits the mark with its combination of soothing sounds, gentle nightlight, and baby-safe design.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Yogasleep-Machine-Wireless-Speaker-Privacy/dp/B08FMWC7KW?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>

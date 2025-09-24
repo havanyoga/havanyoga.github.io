@@ -23,7 +23,7 @@ In this review, we’ll explore how this **memory foam sleep mask** blocks light
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/71L70qYz54L._AC_SL1500_.jpg" alt="Tempur-Pedic Sleep Mask" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4mfcan3?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Tempur-Pedic-Sleep-Mask-Size-Navy/dp/B0027OUUFW?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ If you’re serious about comfort and crave true blackout sleep, the **Tempur-Pe
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mfcan3?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Tempur-Pedic-Sleep-Mask-Size-Navy/dp/B0027OUUFW?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

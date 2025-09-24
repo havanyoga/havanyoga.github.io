@@ -28,7 +28,7 @@ But does it really work? We tested it to see if it's worth the buzz.
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/71q7no3KBiL._AC_SL1500_.jpg" alt="Weighted Idea Blanket" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/43eEQnq" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Weighted-Idea-Cooling-Blanket-Natural/dp/B074BVJHS5?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -93,7 +93,7 @@ At this price point, it's hard to beat — especially if you're just starting ou
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43eEQnq" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Weighted-Idea-Cooling-Blanket-Natural/dp/B074BVJHS5?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

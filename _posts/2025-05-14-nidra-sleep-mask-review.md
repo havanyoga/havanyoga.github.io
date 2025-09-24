@@ -23,7 +23,7 @@ This **contoured sleep mask for travel** is designed to gently rest on your face
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/7187iVcWbeL._AC_SL1500_.jpg" alt="Nidra Sleep Mask" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4klvvkQ?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Patented-Contoured-Adjustable-Blocking-Refreshed/dp/B00M9BC1M8?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ If you’re looking for a **contoured sleep mask for travel** that blocks light 
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4klvvkQ?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Patented-Contoured-Adjustable-Blocking-Refreshed/dp/B00M9BC1M8?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

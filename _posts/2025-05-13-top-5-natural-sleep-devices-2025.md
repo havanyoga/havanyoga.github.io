@@ -36,7 +36,8 @@ We only selected products that meet the following:
 - **Key benefit:** Retrains your parasympathetic system to calm down at night  
 - **CTA:**  
 <div style="text-align:center;">
-  <a href="https://amzn.to/4jMNq3T" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Dodow-Device-150-000-Falling-Asleep/dp/B07CGD8NTX?tag=havan00e-20
+" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -52,7 +53,7 @@ We only selected products that meet the following:
 - **Key benefit:** Blocks street noise, snoring, and other nighttime distractions naturally  
 - **CTA:**  
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mdvHEn" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/SNOOZ-White-Noise-Sound-Machine/dp/B076F2JKYC?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -68,7 +69,7 @@ We only selected products that meet the following:
 - **Key benefit:** No light leakage, no pressure, fully adjustable  
 - **CTA:**  
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mvSYSj" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Manta-Sleep-Mask-Adjustable-Deepest-Possible/dp/B07PRG2CQY?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -84,7 +85,7 @@ We only selected products that meet the following:
 - **Key benefit:** Helps reset your circadian rhythm naturally  
 - **CTA:**  
 <div style="text-align:center;">
-  <a href="https://amzn.to/3YDKuhx" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Hatch-Restore-Personal-Routines-Energized/dp/B0C67ZDQLX?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -100,7 +101,7 @@ We only selected products that meet the following:
 - **Key benefit:** Especially great for family bedrooms and nurseries  
 - **CTA:**  
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Yogasleep-Machine-Wireless-Speaker-Privacy/dp/B08FMWC7KW?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>

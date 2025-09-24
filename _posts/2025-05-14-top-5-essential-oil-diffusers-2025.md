@@ -21,7 +21,7 @@ Whether you're building a bedtime routine, looking to reduce stress, or just wan
 - **Key Features**: Ceramic exterior, minimalist design, auto shut-off
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4j68Is9" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Diffuser-Ultrasonic-Essential-Aromatherapy-Capacity/dp/B0BCP1RG4B?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View Vitruvi on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -38,7 +38,7 @@ Whether you're building a bedtime routine, looking to reduce stress, or just wan
 - **Key Features**: 7-color LED lights, cool mist, compact and quiet
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/44CQNpq" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/URPOWER-Essential-Ultrasonic-Humidifier-Continuous/dp/B0118Q011M?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View URPOWER on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -55,7 +55,7 @@ Whether you're building a bedtime routine, looking to reduce stress, or just wan
 - **Key Features**: Whisper quiet, 2 mist modes, color LED lighting
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4kkPcZX" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/InnoGear-Aromatherapy-Essential-Ultrasonic-Humidifier/dp/B00V9JP8EE?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View InnoGear on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -72,7 +72,7 @@ Whether you're building a bedtime routine, looking to reduce stress, or just wan
 - **Key Features**: Timer settings, 2 mist levels, humidifier function
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/43hneaC" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/ASAKUKI-Essential-Ultrasonic-Aromatherapy-Humidifier/dp/B01MR4Y0CZ?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View Asakuki on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -89,7 +89,7 @@ Whether you're building a bedtime routine, looking to reduce stress, or just wan
 - **Key Features**: Soft-glow LED ring, simple one-button control, compact
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4jVbO3p" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Pure-Enrichment-PureSpa-Essential-Diffuser/dp/B00VKEEY8E?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View PureSpa on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

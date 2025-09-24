@@ -20,7 +20,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Sounds:** Sleep soundscapes + sunrise light  
 - **Specialty:** Combines alarm clock, nightlight, and sound machine  
 <div style="text-align:center;">
-  <a href="https://amzn.to/3YDKuhx?tag=havan07-20" target="_blank" rel="nofollow noopener">
+  <a href="https://www.amazon.com/Hatch-Restore-Personal-Routines-Energized/dp/B0C67ZDQLX?tag=havan00e-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -34,7 +34,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Sounds:** Real fan noise via internal motor  
 - **Specialty:** Adjustable tone, no moving air  
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mdvHEn?tag=havan07-20" target="_blank" rel="nofollow noopener">
+  <a href="https://www.amazon.com/SNOOZ-White-Noise-Sound-Machine/dp/B076F2JKYC?tag=havan00e-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -48,7 +48,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Sounds:** 30 sounds including lullabies  
 - **Specialty:** Amber nightlight + dual speakers  
 <div style="text-align:center;">
-  <a href="https://amzn.to/43jjQvV?tag=havan07-20" target="_blank" rel="nofollow noopener">
+  <a href="https://www.amazon.com/Yogasleep-Machine-Wireless-Speaker-Privacy/dp/B08FMWC7KW?tag=havan00e-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -62,7 +62,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Sounds:** 10 fan + 10 noise tones (non-looping)  
 - **Specialty:** Precise volume, no light or distractions  
 <div style="text-align:center;">
-  <a href="https://amzn.to/3GSqrWC?tag=havan07-20" target="_blank" rel="nofollow noopener">
+  <a href="https://www.amazon.com/Adaptive-Sound-Technologies-LectroFan-Non-Looping/dp/B00E6D6LQY?tag=havan00e-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>
@@ -76,7 +76,7 @@ Here are our top 5 picks for **white noise machines in 2025** — each selected 
 - **Sounds:** 29 including lullabies, rain, ocean  
 - **Specialty:** Rechargeable, dimmable light, hangs on cribs  
 <div style="text-align:center;">
-  <a href="https://amzn.to/4iZYAkw" target="_blank" rel="nofollow noopener">
+  <a href="https://www.amazon.com/Dreamegg-White-Noise-Machine-Rechargeable/dp/B081T8QC65?tag=havan00e-20" target="_blank" rel="nofollow noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

@@ -23,7 +23,7 @@ In this review, we’ll break down why this **lightweight eye mask** remains a f
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/71sGmfmCniL._AC_SX522_.jpg" alt="Bucky 40 Blinks Sleep Mask" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4iZ7i2F?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Bucky-Ultralight-Comfortable-Contoured-Extensions/dp/B07F8WJCQX?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ If you're searching for a **women-friendly, lightweight sleep mask** that travel
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4iZ7i2F?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Bucky-Ultralight-Comfortable-Contoured-Extensions/dp/B07F8WJCQX?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

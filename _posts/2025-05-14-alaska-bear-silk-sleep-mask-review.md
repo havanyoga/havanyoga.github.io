@@ -23,7 +23,7 @@ In this review, we’ll explore the **Alaska Bear Silk Sleep Mask**, one of the 
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/71aDwpq9RIL._AC_SL1500_.jpg" alt="Alaska Bear Silk Sleep Mask" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/3YFx84n?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Pressure-Sleeping-Conventional-Eyeshades-Washable/dp/B00GSO1D9O?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **Alaska Bear Silk Sleep Mask** offers a luxurious feel at a budget-friendly
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/3YFx84n?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Pressure-Sleeping-Conventional-Eyeshades-Washable/dp/B00GSO1D9O?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

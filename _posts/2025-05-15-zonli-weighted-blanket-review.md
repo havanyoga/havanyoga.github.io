@@ -29,7 +29,7 @@ Let’s explore how it performs and why it's ideal for people who need deep pres
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/61k+gaz1GEL._AC_SL1500_.jpg" alt="ZonLi Weighted Blanket" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4dgPBKy" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/ZonLi-Weighted-Blanket-Cooling-180-220/dp/B075W94KB3?tag=havan00e-20y" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -94,7 +94,7 @@ It may not be the most luxurious option, but it’s incredibly functional — an
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4dgPBKy" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/ZonLi-Weighted-Blanket-Cooling-180-220/dp/B075W94KB3?tag=havan00e-20y" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

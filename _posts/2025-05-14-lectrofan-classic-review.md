@@ -23,7 +23,7 @@ In this review, we take a close look at the **LectroFan Classic** — a highly r
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/51E316urhTL._AC_SL1367_.jpg" alt="LectroFan Classic" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/3GSqrWC?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Adaptive-Sound-Technologies-LectroFan-Non-Looping/dp/B00E6D6LQY?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -94,7 +94,7 @@ It’s a top pick for anyone wanting distraction-free sleep or focus—at home, 
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/3GSqrWC?tag=havan07-20" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Adaptive-Sound-Technologies-LectroFan-Non-Looping/dp/B00E6D6LQY?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

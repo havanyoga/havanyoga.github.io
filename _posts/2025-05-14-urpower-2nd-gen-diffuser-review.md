@@ -23,7 +23,7 @@ In this review, we’ll explore why this Amazon bestseller remains a top choice 
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/51rbMI1C8eL._AC_SL1500_.jpg" alt="URPOWER 2nd Gen Diffuser" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/44CQNpq" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/URPOWER-Essential-Ultrasonic-Humidifier-Continuous/dp/B0118Q011M?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **URPOWER 2nd Gen Diffuser** is the little diffuser that could—delivering 
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/44CQNpq" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/URPOWER-Essential-Ultrasonic-Humidifier-Continuous/dp/B0118Q011M?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

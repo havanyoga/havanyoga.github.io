@@ -27,7 +27,7 @@ Weighted blankets are more than just a wellness trend—they're a scientifically
 ## 🥇 1. Gravity Weighted Blanket
 
 **Best for:** Deep pressure relief, anxiety, and premium sleep experience  
-**Link:** [Buy on Amazon](https://amzn.to/3S74RA4)  
+**Link:** [Buy on Amazon](https://www.amazon.com/Gravity-Blanket-Removable-Generation-Fastening/dp/B08CS22G7Z?tag=havan00e-20)  
 **Image:**  
 <img src="https://m.media-amazon.com/images/I/71ur6Ah2h5L._AC_SL1500_.jpg" alt="Gravity Weighted Blanket" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
@@ -44,7 +44,7 @@ The Gravity Blanket is the gold standard for weighted blankets. With a plush mic
 ## 🥈 2. YnM Weighted Blanket
 
 **Best for:** Budget-conscious shoppers looking for reliability  
-**Link:** [Buy on Amazon](https://amzn.to/4kqz611)  
+**Link:** [Buy on Amazon](https://www.amazon.com/YnM-Weighted-Blanket-Cotton-Material/dp/B073429DV2?tag=havan00e-20)  
 **Image:**  
 <img src="https://m.media-amazon.com/images/I/61pMF-KAvfL._AC_SL1500_.jpg" alt="YnM Weighted Blanket" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
@@ -61,7 +61,7 @@ YnM delivers affordability without sacrificing performance. It features breathab
 ## 🥉 3. Luna Adult Weighted Blanket
 
 **Best for:** Those with sensitive skin or allergies  
-**Link:** [Buy on Amazon](https://amzn.to/44FF0Xq)  
+**Link:** [Buy on Amazon](https://www.amazon.com/LUNA-Weighted-Blanket-15-lbs/dp/B07QNZJ24Z?tag=havan00e-20)  
 **Image:**  
 <img src="https://m.media-amazon.com/images/I/81cKcaLT8vL._AC_SL1500_.jpg" alt="Luna Weighted Blanket" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
@@ -78,7 +78,7 @@ The Luna blanket is made from 100% Oeko-Tex certified cotton, making it safe for
 ## 🔥 4. ZonLi Weighted Blanket
 
 **Best for:** Hot sleepers and warmer climates  
-**Link:** [Buy on Amazon](https://amzn.to/4dgPBKy)  
+**Link:** [Buy on Amazon](https://www.amazon.com/ZonLi-Weighted-Blanket-Cooling-180-220/dp/B075W94KB3?tag=havan00e-20)  
 **Image:**  
 <img src="https://m.media-amazon.com/images/I/61k+gaz1GEL._AC_SL1500_.jpg" alt="ZonLi Weighted Blanket" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 
@@ -95,7 +95,7 @@ With a bamboo-cotton blend and excellent airflow, the ZonLi weighted blanket is 
 ## 🛌 5. Weighted Idea Blanket
 
 **Best for:** Beginners and casual use  
-**Link:** [Buy on Amazon](https://amzn.to/43eEQnq)  
+**Link:** [Buy on Amazon](https://www.amazon.com/Weighted-Idea-Cooling-Blanket-Natural/dp/B074BVJHS5?tag=havan00e-20)  
 **Image:**  
 <img src="https://m.media-amazon.com/images/I/71q7no3KBiL._AC_SL1500_.jpg" alt="Weighted Idea Blanket" style="width:100%; max-width:600px; height:auto; margin: 1.5em auto; display:block;">
 

@@ -23,7 +23,7 @@ In this review, we’ll explore what makes it one of the most stylish and functi
 <div style="text-align:center;">
   <img src="https://m.media-amazon.com/images/I/71u796LAwzL._AC_SL1500_.jpg" alt="Vitruvi Stone Diffuser" style="width:400px; height:auto;" />
   <br/>
-  <a href="https://amzn.to/4j68Is9" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Diffuser-Ultrasonic-Essential-Aromatherapy-Capacity/dp/B0BCP1RG4B?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto; margin-top:10px;" />
   </a>
 </div>
@@ -92,7 +92,7 @@ The **Vitruvi Stone Diffuser** isn’t just a diffuser—it’s a design stateme
 ---
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4j68Is9" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/Diffuser-Ultrasonic-Essential-Aromatherapy-Capacity/dp/B0BCP1RG4B?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check price on Amazon" style="width:160px; height:auto;" />
   </a>
 </div>

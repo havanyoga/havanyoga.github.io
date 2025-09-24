@@ -20,7 +20,8 @@ One of the most highly-rated adjustable pillows on Amazon, this Coop pillow comb
 
 ![Coop Adjustable Pillow](https://m.media-amazon.com/images/I/81jChYY+-fL._AC_SL1500_.jpg)
 
-> **[👉 View on Amazon](https://amzn.to/4mcBrOD?tag=havan07-20)**
+> **[👉 View on Amazon](https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW?tag=havan00e-20
+)**
 
 ---
 
@@ -97,6 +98,7 @@ A: Thanks to the breathable bamboo-derived cover, it stays cool compared to stan
 
 If you’re on the hunt for the **best adjustable pillow for side sleepers**, the Coop Adjustable Memory Foam Pillow delivers where it matters most – **support, customization, and comfort**. It's worth the investment for a better night’s rest.
 
-👉 [**Check Price on Amazon**](https://amzn.to/4mcBrOD?tag=havan07-20)
+👉 [**Check Price on Amazon**](https://www.amazon.com/Coop-Home-Goods-Memory-Foam-Pillow-For-Side-Back-Stomach-Sleeper/dp/B00EINBSEW?tag=havan00e-20
+)
 
 > *This post contains affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. It helps keep this blog alive – thank you!*
