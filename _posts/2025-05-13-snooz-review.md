@@ -28,7 +28,7 @@ Unlike digital noise machines, SNOOZ contains a real mechanical fan enclosed in 
 </div>
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mdvHEn" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/SNOOZ-White-Noise-Sound-Machine/dp/B076F2JKYC?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/view.png" alt="View on Amazon" style="width:160px; height:auto;"/>
   </a>
 </div>
@@ -117,7 +117,7 @@ A: Yes. At max volume, it easily masks traffic, voices, and snoring.
 If you're serious about upgrading your sleep environment and want **realistic, soothing white noise**, the **SNOOZ White Noise Machine** is a top-tier choice. Its fan-based sound is as authentic as it gets — without the chill.
 
 <div style="text-align:center;">
-  <a href="https://amzn.to/4mdvHEn" target="_blank" rel="nofollow sponsored noopener">
+  <a href="https://www.amazon.com/SNOOZ-White-Noise-Sound-Machine/dp/B076F2JKYC?tag=havan00e-20" target="_blank" rel="nofollow sponsored noopener">
     <img src="/assets/img/checkprice.png" alt="Check Price on Amazon" style="width:180px; height:auto; margin-top:10px;"/>
   </a>
 </div>
