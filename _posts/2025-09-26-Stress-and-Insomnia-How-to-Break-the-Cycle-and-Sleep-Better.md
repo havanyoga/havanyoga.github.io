@@ -9,7 +9,6 @@ author: Ha Hoang
 # Stress and Insomnia: How to Break the Cycle and Sleep Better  
 
 ![Stress and Insomnia](https://havan.yoga/pre/stress-insomnia-preview.png)  
-*Image suggestion: A person lying in bed wide awake at night, looking stressed and tired.*
 
 ---
 
@@ -151,3 +150,4 @@ Your path to better sleep doesn’t have to be complicated. Start small, stay co
 ---
 
 *Word count: ~1510*  
+
